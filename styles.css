@@ -52,6 +52,7 @@ footer .bottom{margin-top:40px;padding-top:22px;border-top:1px solid rgba(255,25
  nav ul.open{display:flex}nav ul a{display:block;padding:12px 0}
  .menu-btn{display:block}section{padding:68px 0}.brand img{height:44px}}
 @media(max-width:560px){.products{grid-template-columns:1fr}.signup input{min-width:0;width:100%}}
+.bf{font-weight:700}h1 .bf{font-weight:700}
 
 .product a.ph{display:block;background:#fff}
 .price{font-weight:600;color:var(--ink);font-size:15px}
